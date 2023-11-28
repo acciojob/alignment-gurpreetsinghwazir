@@ -1,6 +1,16 @@
 /*  your css code here. If applicable */
+table #middle {
+	border: 1px solid rgb(0,0,0);
+	spacing: 1px;
+	padding: 1px;
+}
 table{
-	border: 1px solid rgb(0, 0, 0);
+	border: 1px solid rgb(0,0,0);
+	spacing: 1px;
+	padding: 1px;
+}
+table{
+	border: 1px solid rgb(0,0,0);
 	spacing: 1px;
 	padding: 1px;
 }
