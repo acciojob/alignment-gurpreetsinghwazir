@@ -1,7 +1,6 @@
 /*  your css code here. If applicable */
 table .table-3 {
-	border: 1px solid;
-	border-color: red rgb(0, 0, 0);
+	border: 1px solid black;
 	spacing: 1px;
 	padding: 1px;
 }
