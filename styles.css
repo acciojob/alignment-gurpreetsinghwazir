@@ -1,8 +1,15 @@
-/*  your css code here. If applicable */
-#table #table-3 #table-2 #table-1 {
-	border: 1px; 
-	border-color: solid red; 
-	
+#table-1{
+	border: 1px solid black; 
+	spacing: 1px;
+	padding: 1px;
+}
+#table-2{
+	border: 1px solid black; 
+	spacing: 1px;
+	padding: 1px;
+}
+#table-3{
+	border: 1px solid black; 
 	spacing: 1px;
 	padding: 1px;
 }
