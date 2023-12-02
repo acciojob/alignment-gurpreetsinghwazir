@@ -4,6 +4,7 @@
     border: 1px solid black;
     border-spacing: 1px;
     padding: 1px;
+	box-shadow: inset 0 0 5px rgba(0, 0, 0 , 0.15)
 }
 #t21
 {
