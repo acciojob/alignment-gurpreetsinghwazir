@@ -1,13 +1,9 @@
-#table-1, #table-2, #table-3 {
+.middle {
     border: 1px solid rgb(0, 0, 0);
     border-spacing: 1px;
     padding: 1px;
 	
 }
-#t21
-{
-	background-color: 2;
+#t13{
+background:red;	
 }
-/* img{
-	padding:20px
-} */
